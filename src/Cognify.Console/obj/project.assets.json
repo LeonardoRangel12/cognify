@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Cognify.Controllers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Cognify.Core": "1.0.0",
+          "Cognify.Views": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cognify.Controllers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cognify.Controllers.dll": {}
+        }
+      },
+      "Cognify.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Cognify.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cognify.Core.dll": {}
+        }
+      },
+      "Cognify.Views/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Cognify.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cognify.Views.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cognify.Views.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cognify.Controllers/1.0.0": {
+      "type": "project",
+      "path": "../Cognify.Controllers/Cognify.Controllers.csproj",
+      "msbuildProject": "../Cognify.Controllers/Cognify.Controllers.csproj"
+    },
+    "Cognify.Core/1.0.0": {
+      "type": "project",
+      "path": "../Cognify.Core/Cognify.Core.csproj",
+      "msbuildProject": "../Cognify.Core/Cognify.Core.csproj"
+    },
+    "Cognify.Views/1.0.0": {
+      "type": "project",
+      "path": "../Cognify.Views/Cognify.Views.csproj",
+      "msbuildProject": "../Cognify.Views/Cognify.Views.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Cognify.Controllers >= 1.0.0",
+      "Cognify.Core >= 1.0.0",
+      "Cognify.Views >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/leoranvi/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Console/Cognify.Console.csproj",
+      "projectName": "Cognify.Console",
+      "projectPath": "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Console/Cognify.Console.csproj",
+      "packagesPath": "/Users/leoranvi/.nuget/packages/",
+      "outputPath": "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Console/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/leoranvi/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/Cognify.Controllers.csproj": {
+              "projectPath": "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/Cognify.Controllers.csproj"
+            },
+            "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Core/Cognify.Core.csproj": {
+              "projectPath": "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Core/Cognify.Core.csproj"
+            },
+            "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/Cognify.Views.csproj": {
+              "projectPath": "/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/Cognify.Views.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

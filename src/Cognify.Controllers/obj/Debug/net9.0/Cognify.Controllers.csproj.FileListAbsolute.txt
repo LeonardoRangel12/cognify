@@ -1,0 +1,17 @@
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/Cognify.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/Cognify.Controllers.AssemblyInfoInputs.cache
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/Cognify.Controllers.AssemblyInfo.cs
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/Cognify.Controllers.csproj.CoreCompileInputs.cache
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/Cognify.Controllers.csproj.AssemblyReference.cache
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/bin/Debug/net9.0/Cognify.Controllers.deps.json
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/bin/Debug/net9.0/Cognify.Controllers.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/bin/Debug/net9.0/Cognify.Controllers.pdb
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/bin/Debug/net9.0/Cognify.Core.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/bin/Debug/net9.0/Cognify.Views.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/bin/Debug/net9.0/Cognify.Core.pdb
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/bin/Debug/net9.0/Cognify.Views.pdb
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/Cognify..C414F75F.Up2Date
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/Cognify.Controllers.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/refint/Cognify.Controllers.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/Cognify.Controllers.pdb
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Controllers/obj/Debug/net9.0/ref/Cognify.Controllers.dll

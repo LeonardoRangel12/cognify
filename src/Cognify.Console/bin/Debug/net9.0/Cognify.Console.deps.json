@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cognify.Console/1.0.0": {
+        "dependencies": {
+          "Cognify.Controllers": "1.0.0",
+          "Cognify.Core": "1.0.0",
+          "Cognify.Views": "1.0.0"
+        },
+        "runtime": {
+          "Cognify.Console.dll": {}
+        }
+      },
+      "Cognify.Controllers/1.0.0": {
+        "dependencies": {
+          "Cognify.Core": "1.0.0",
+          "Cognify.Views": "1.0.0"
+        },
+        "runtime": {
+          "Cognify.Controllers.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cognify.Core/1.0.0": {
+        "runtime": {
+          "Cognify.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cognify.Views/1.0.0": {
+        "dependencies": {
+          "Cognify.Core": "1.0.0"
+        },
+        "runtime": {
+          "Cognify.Views.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cognify.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cognify.Controllers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cognify.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cognify.Views/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

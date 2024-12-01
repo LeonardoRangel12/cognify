@@ -1,0 +1,15 @@
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/Cognify.Views.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/Cognify.Views.AssemblyInfoInputs.cache
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/Cognify.Views.AssemblyInfo.cs
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/Cognify.Views.csproj.CoreCompileInputs.cache
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/bin/Debug/net9.0/Cognify.Views.deps.json
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/bin/Debug/net9.0/Cognify.Views.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/bin/Debug/net9.0/Cognify.Views.pdb
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/bin/Debug/net9.0/Cognify.Core.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/bin/Debug/net9.0/Cognify.Core.pdb
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/Cognify.Views.csproj.AssemblyReference.cache
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/Cognify..7ED7013A.Up2Date
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/Cognify.Views.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/refint/Cognify.Views.dll
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/Cognify.Views.pdb
+/Users/leoranvi/Documents/Repos/Cognify/src/Cognify.Views/obj/Debug/net9.0/ref/Cognify.Views.dll
